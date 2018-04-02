@@ -10,3 +10,4 @@ DELETE FROM products;
 INSERT INTO products (name, stock) values ('Apple', 10);
 INSERT INTO products (name, stock) values ('Orange', 10);
 INSERT INTO products (name, stock) values ('Pear', 10);
+INSERT INTO products (name, stock) values ('nehr', 10);
